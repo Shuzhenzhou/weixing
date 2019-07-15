@@ -1,0 +1,7 @@
+
+<view style="display: flex;width: 100vw;height: 100vh;flex-direction: column;">
+  <view>首页</view>
+  <comA bind_init="_initComponent" style="flex: 1;background: red;overflow: hidden"></comA>
+</view>
+
+

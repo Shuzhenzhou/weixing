@@ -1,0 +1,8 @@
+<template>
+  <view>我的1</view>
+</template>
+
+<script>
+  import wepy from '@wepy/core'
+  wepy.page({})
+</script>

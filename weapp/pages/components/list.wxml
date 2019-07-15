@@ -1,0 +1,8 @@
+
+<view>
+  <scroll-view scroll-y="true" style="height: 300rpx;background: yellowgreen;">
+    <block wx:for="{{dataArr}}" wx:key="{{index}}">
+      <view>{{item}}</view>
+    </block>
+  </scroll-view>
+</view>
