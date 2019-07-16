@@ -8,4 +8,4 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { "d
 
 _core["default"].use(_x["default"]);
 
-_core["default"].app({}, {a: 1}, {a: 1});
+_core["default"].app({}, {a: 1}, {a: 1}, {a: 1}, {a: 1}, {a: 1}, {a: 1}, {a: 1}, {a: 1}, {a: 1}, {a: 1}, {a: 1}, {a: 1}, {a: 1}, {a: 1}, {a: 1}, {a: 1}, {a: 1}, {a: 1}, {a: 1}, {a: 1}, {a: 1}, {a: 1}, {a: 1}, {a: 1}, {a: 1}, {a: 1}, {a: 1}, {a: 1});

@@ -1,0 +1,14 @@
+<template>
+  <view>
+    detail
+  </view>
+</template>
+
+<script>
+  import wepy from '@wepy/core'
+  wepy.page({
+    onLoad(query) {
+      console.log(query)
+    }
+  })
+</script>

@@ -20,7 +20,8 @@ wepy.app({
 {
   pages:[
     'pages/index/index',
-    'pages/my/my'
+    'pages/my/my',
+    'pages/detail/detail'
   ],
   window:{
       backgroundTextStyle: 'light',
